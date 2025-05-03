@@ -1,5 +1,4 @@
 # AZTEC-SEQUENCER NODE
-![Uploading image.png…]()
 
 Aztec is a L2 protcol on Ethereum that provides privacy and enable private transanction onchain.
 Details Guide on how to  Run `Sequencer Node` on Aztec Network Testnet, Earn `Apprentice` Role on discord and Produce blocks on the network.
@@ -223,6 +222,6 @@ aztec start --node --archiver --sequencer \
   --p2p.p2pIp IP
 ```
 
-This Readme will keep getting update here and on my X https://x.com/HallenjayArt
+This Readme will keep getting update here and on my X https://x.com/metaalienoffl
 
 
